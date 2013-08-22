@@ -6,8 +6,8 @@ this demo repository, first follow the installation instructions listed on
 the knife-wsfusion page.
 
 Once that's done, set up a 64-bit Ubuntu 12.04 VM, and configure a
-```vmware``` user with sudo permissions. Set the password for that user to
-```vmware123```.
+```vmware``` user with sudo permissions. Set the password for that user
+to ```vmware123```.
 
 This setup assumes that VM will live in
 ```$HOME/Documents/Virtual Machines.localized/Chef Ubuntu Template.vmwarevm```.
